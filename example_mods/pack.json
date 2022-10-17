@@ -1,7 +1,7 @@
 {
-	"name": "Name",
-	"description": "Description",
+	"name": "Friday Night Funkin' : vs-bloodiey",
+	"description": "Simple Play against the youtuber called bloodiey",
 	"restart":false,
 	"runsGlobally": false,
-	"color": [170, 0, 255]
+	"color": [ 255, 155, 0]
 }
