@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Quick_Flash.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FlashDash0000" x="8" y="8" width="1195" height="335" frameX="0" frameY="0" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0001" x="8" y="351" width="1200" height="279" frameX="0" frameY="-36" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0002" x="8" y="638" width="1177" height="171" frameX="-23" frameY="-86" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0003" x="8" y="817" width="1177" height="129" frameX="-23" frameY="-107" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0004" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0005" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0006" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0007" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0008" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0009" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0010" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0011" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0012" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0013" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0014" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0015" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0016" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0017" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0018" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0019" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0020" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0021" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0022" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+	<SubTexture name="FlashDash0023" x="8" y="8" width="0" height="0" frameX="-42" frameY="-168" frameWidth="1200" frameHeight="335"/>
+</TextureAtlas>
