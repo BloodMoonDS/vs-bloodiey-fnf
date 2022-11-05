@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-89,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bloodiey Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-165,
+				5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bloodiey Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bloodiey Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-117,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bloodiey Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				61
+			],
+			"anim": "chargeFoward",
+			"fps": 24,
+			"name": "Bloodiey Base Charge Fowar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-149,
+				1
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Bloodiey Attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-141,
+				2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bloodiey Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bloodiey_Assets",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "bloodiey",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		201,
+		0
+	],
+	"camera_position": [
+		80,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
