@@ -1,81 +1,81 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				-89,
-				2
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Bloodiey Left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-165,
-				5
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Bloodiey Down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-80,
-				4
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Bloodiey Up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-117,
-				6
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Bloodiey Right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				67,
-				61
-			],
-			"anim": "chargeFoward",
-			"fps": 24,
-			"name": "Bloodiey Base Charge Fowar",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-149,
-				1
-			],
-			"anim": "attack",
-			"fps": 24,
-			"name": "Bloodiey Attack",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-141,
-				2
+				-87
 			],
 			"loop": true,
 			"fps": 24,
-			"anim": "idle",
+			"anim": "singLEFT",
 			"indices": [],
-			"name": "Bloodiey Idle"
+			"name": "BloodieyCat_Left"
+		},
+		{
+			"offsets": [
+				-135,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BloodieyCat_Down"
+		},
+		{
+			"offsets": [
+				-134,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BloodieyCat_Up"
+		},
+		{
+			"offsets": [
+				-151,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BloodieyCat_Right"
+		},
+		{
+			"offsets": [
+				-134,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "chargeFoward",
+			"indices": [],
+			"name": "BloodieyCat_Attack"
+		},
+		{
+			"offsets": [
+				-139,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "BloodieyCat_Attack"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-136,
+				-88
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BloodieyCat_Idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -88,8 +88,8 @@
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
-		201,
-		0
+		255,
+		255
 	],
 	"camera_position": [
 		80,
