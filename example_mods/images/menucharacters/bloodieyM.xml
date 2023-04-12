@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bloodieyM.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bloodiey_Idle_Menu0000" x="50" y="50" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle_Menu0001" x="474" y="50" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle_Menu0002" x="898" y="50" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle_Menu0003" x="1322" y="50" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle_Menu0004" x="50" y="765" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle_Menu0005" x="50" y="50" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle_Menu0006" x="50" y="50" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle_Menu0007" x="50" y="50" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle_Menu0008" x="50" y="50" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle_Menu0009" x="50" y="50" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle_Menu0010" x="50" y="50" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle_Menu0011" x="50" y="50" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle_Menu0012" x="50" y="50" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle_Menu0013" x="50" y="50" width="374" height="665"/>
+</TextureAtlas>
