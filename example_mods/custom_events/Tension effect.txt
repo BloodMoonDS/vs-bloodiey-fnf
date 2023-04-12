@@ -1,0 +1,5 @@
+Set a tension in liltown stage
+works like philly glow.
+
+Value 1: amount
+Value 2: idk
