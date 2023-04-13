@@ -9,4 +9,7 @@ but he dont want that obviously.
 this is and old reimagination from my old mod.
 <https://www.mediafire.com/file/f1bacidsa7hrwd6/mod_shido_xd.rar/file>
 
-first of all run setup.bat this will do the things for you automatically
+also you have o install haxeflixel v 4.2.4.
+
+after installation run setup.bat this will do the things for you automatically 
+NOTE: the fisrt steps you have to take care of the windows, it will ask you some things.
