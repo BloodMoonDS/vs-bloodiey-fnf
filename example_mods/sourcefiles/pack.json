@@ -1,0 +1,7 @@
+{
+	"name": "Friday Night funkin' : Vs Bloodiey - Source Files",
+	"description": "Things that were used to develop the mod, enabling / disabling this wont do anything or at least anything useful",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [0, 216, 255]
+}

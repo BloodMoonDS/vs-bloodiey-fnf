@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"source-code",
+			"bloodiey",
+			[
+				255,
+				113,
+				0
+			]
+		],
+		[
+			"chaoz-airflow",
+			"bloodiey",
+			[
+				46,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "liltown",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"bloodiey",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Vs-bloodiey",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
