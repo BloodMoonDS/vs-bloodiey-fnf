@@ -42,7 +42,7 @@ function noteMiss(id, noteData, noteType, isSustainNote)
 		characterPlayAnim('bf', 'hurt', true);
 		characterPlayAnim('gf', 'scared', true);
 		playSound("bloodieyblast",1, "blastsound");
-		playSound("bfcolidewithshock",1, "blastsound");
+		playSound("bfcolidewithshock",1, "blastsound2");
 		-- put something here if you want
 	end
 end

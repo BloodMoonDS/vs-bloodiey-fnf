@@ -8,6 +8,7 @@ function onCreate()
 	scaleObject('stagefront', 1, 1);
 	
 	if not lowQuality then
+
 		makeLuaSprite('CITYBG', 'stage/liltown/CityBG', -400, -300);
 		setScrollFactor('CITYBG', 1, 1);
 		scaleObject('CITYBG', 1, 1);
@@ -16,15 +17,7 @@ function onCreate()
 		setScrollFactor('SkyClouds', 1, 1);
 		scaleObject('SkyClouds', 1, 1);
 
-	
-
-		
-	
 	end
-
-	
-	
-	
 
 	-- sprites that only load if Low Quality is turned off
 	
@@ -34,6 +27,7 @@ function onCreate()
 		addLuaSprite('SkyClouds', false);
 		addLuaSprite('CITYBG', false);
 	end
+	
 	addLuaSprite('stagefront', false);
 	
 	close(true); --For performance reasons, close this script once the stage is fully loaded, as this script won't be used anymore after loading the stage
