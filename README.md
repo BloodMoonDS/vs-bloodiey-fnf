@@ -20,6 +20,8 @@ NOTE: the fisrt steps you have to take care of the windows, it will ask you some
 
 or else Visit the official psych engine website.
 
+<https://github.com/ShadowMario/FNF-PsychEngine>
+
 ![Mod Icon](art/icon64.png)
 
 You Can modify this mod inside <code>example_mods</code> all the files are in the root directory of the mods
