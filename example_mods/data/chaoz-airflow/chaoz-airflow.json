@@ -10658,7 +10658,7 @@
 		"splashSkin": "bloodiey_note_splashes",
 		"song": "chaoz-airflow",
 		"needsVoices": true,
-		"arrowSkin": "",
+		"arrowSkin": "bloodiey_note_assets",
 		"validScore": true,
 		"stage": "liltown",
 		"bpm": 175,
