@@ -1,5 +1,0 @@
-(Requires Photocity Stage) 
-Changes the sky to Red
-
-Value 1: Not Needed
-Value 2: Not Needed

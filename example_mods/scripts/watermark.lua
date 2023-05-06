@@ -1,3 +1,5 @@
+
+--[[
 function onCreate()
     makeLuaSprite("watermark", "watermark", 0, 0);
     setScrollFactor("watermark",1,1);
@@ -6,3 +8,4 @@ function onCreate()
     addLuaText("sub");
     close(true);
 end
+]]
