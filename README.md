@@ -1,6 +1,11 @@
 # Friday Night Funkin' Vs Bloodiey
 
-![Logo OG](art/iconOG.png)
+![Logo OG](art/icon256.png)
+
+# WARNING
+![Touhou Caution Sing](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2999b23d-70d7-4717-bbec-5feb6fb1a768/d4mlyrf-dfab4454-ad55-4860-8330-851b32f49da8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI5OTliMjNkLTcwZDctNDcxNy1iYmVjLTVmZWI2ZmIxYTc2OFwvZDRtbHlyZi1kZmFiNDQ1NC1hZDU1LTQ4NjAtODMzMC04NTFiMzJmNDlkYTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ARzh6N0nTscACJjUaiE6rIdRugwHV494rEKzvrf0qyE)
+
+Psych Engine is currently experiencing problems with The most recent version of flixel!!! the mod is being delayed until further advice, I'll try fixing the problem while I can.
 
 ## About
 
