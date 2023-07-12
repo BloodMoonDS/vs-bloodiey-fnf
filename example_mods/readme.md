@@ -1,4 +1,5 @@
 # Hey! -
+![ bloodiey the cat](art/bloodiey%20animation.gif)
 
 this is the vs-bloodiey mod main folder feel free to use anything shown here
 but remember to give credits tho

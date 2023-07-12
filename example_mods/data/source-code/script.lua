@@ -1,3 +1,14 @@
+function opponentNoteHit() -- health draining mechanic
+	health = getProperty('health')
+    	if getProperty('health') > 0.23 then
+        setProperty('health', health- 0.01); --[[
+            NERFED: bloodiey just dominated (ok that sounds bad)
+            bf and the health bar always bloodiey was winning so I decided to nerf it
+            if you want to feel the old pain you can set that value to 0.06 nad feel the full pain
+        ]]
+  end
+end
+
 local xx = 520;
 local yy = 450;
 local xx2 = 820;

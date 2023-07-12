@@ -17,34 +17,8 @@
 				0
 			],
 			"anim": "talk",
-			"idle_name": "BloodieyDialogue Normal0005",
-			"loop_name": "BloodieyDialogue Normal"
-		},
-		{
-			"idle_offsets": [
-				4,
-				-8
-			],
-			"anim": "excited",
-			"loop_offsets": [
-				5,
-				0
-			],
-			"idle_name": "BF EXCITED0",
-			"loop_name": "BF EXCITED LOOP"
-		},
-		{
-			"idle_offsets": [
-				0,
-				0
-			],
-			"anim": "pissed",
-			"loop_offsets": [
-				0,
-				0
-			],
-			"idle_name": "BF PISSED0",
-			"loop_name": "BF PISSED LOOP"
+			"idle_name": "Bloodiey_Dialogue_Normal0005",
+			"loop_name": "Bloodiey_Dialogue_Normal"
 		},
 		{
 			"idle_offsets": [
@@ -56,34 +30,8 @@
 				-4,
 				0
 			],
-			"idle_name": "BloodieyWhat0005",
-			"loop_name": "BloodieyWhat"
-		},
-		{
-			"loop_offsets": [
-				-3,
-				0
-			],
-			"anim": "confused",
-			"idle_offsets": [
-				-6,
-				-11
-			],
-			"loop_name": "BF CONFUSED LOOP",
-			"idle_name": "BF CONFUSED0"
-		},
-		{
-			"loop_offsets": [
-				0,
-				0
-			],
-			"anim": "blush",
-			"idle_offsets": [
-				0,
-				0
-			],
-			"loop_name": " BloodieyDialogue blush",
-			"idle_name": " BloodieyDialogue blush0005"
+			"idle_name": "Bloodiey_Dialogue_Scared0000",
+			"loop_name": "Bloodiey_Dialogue_Scared"
 		},
 		{
 			"loop_offsets": [
@@ -95,8 +43,21 @@
 				0,
 				0
 			],
-			"loop_name": "BloodieyDialogue Grasa",
-			"idle_name": "BloodieyDialogue Grasa0005"
+			"loop_name": "Bloodiey_Dialogue_Silly",
+			"idle_name": "Bloodiey_Dialogue_Silly0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Serious",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Bloodiey_Dialogue_Serious",
+			"idle_name": "Bloodiey_Dialogue_Serious0000"
 		}
 	]
 }

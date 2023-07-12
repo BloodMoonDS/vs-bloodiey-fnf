@@ -1,4 +1,20 @@
 {
+	"storyName": "battle against a damn Cat",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "liltown",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bloodiey",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"source-code",
@@ -10,32 +26,16 @@
 			]
 		],
 		[
-			"chaoz-airflow",
+			"space-battle",
 			"bloodiey",
 			[
-				46,
-				113,
+				226,
+				13,
 				253
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "liltown",
-	"difficulties": "Normal",
-	"weekCharacters": [
-		"bloodiey",
-		"bf",
-		"gf"
-	],
-	"storyName": "Your New Week",
-	"weekName": "Vs-bloodiey",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
 	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "Vs-bloodiey",
+	"hiddenUntilUnlocked": false
 }

@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bloodiey_NES.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bloodiey_Attack0000" x="30" y="30" width="374" height="665" frameX="-42" frameY="0" frameWidth="2287" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Attack0001" x="434" y="30" width="401" height="665" frameX="-33" frameY="0" frameWidth="2287" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Attack0002" x="865" y="30" width="435" height="665" frameX="-17" frameY="0" frameWidth="2287" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Attack0003" x="1330" y="30" width="1666" height="665" frameX="0" frameY="0" frameWidth="2287" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Attack0004" x="3026" y="30" width="1852" height="665" frameX="0" frameY="0" frameWidth="2287" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Attack0005" x="4908" y="30" width="2287" height="665"/>
+	<SubTexture name="Bloodiey_Attack0006" x="30" y="725" width="1822" height="665" frameX="0" frameY="0" frameWidth="2287" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Attack0007" x="1882" y="725" width="469" height="665" frameX="0" frameY="0" frameWidth="2287" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Attack0008" x="2381" y="725" width="469" height="665" frameX="0" frameY="0" frameWidth="2287" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Attack0009" x="2880" y="725" width="469" height="665" frameX="0" frameY="0" frameWidth="2287" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Attack0010" x="3379" y="725" width="469" height="665" frameX="0" frameY="0" frameWidth="2287" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Attack0011" x="3878" y="725" width="469" height="665" frameX="0" frameY="0" frameWidth="2287" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Attack0012" x="4377" y="725" width="469" height="665" frameX="0" frameY="0" frameWidth="2287" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Attack0013" x="4876" y="725" width="469" height="665" frameX="0" frameY="0" frameWidth="2287" frameHeight="665"/>
+	<SubTexture name="Bloodiey_DOWN0000" x="5375" y="725" width="306" height="652"/>
+	<SubTexture name="Bloodiey_DOWN0001" x="5711" y="725" width="306" height="652"/>
+	<SubTexture name="Bloodiey_DOWN0002" x="6047" y="725" width="306" height="652"/>
+	<SubTexture name="Bloodiey_DOWN0003" x="6383" y="725" width="306" height="652"/>
+	<SubTexture name="Bloodiey_Dodge0000" x="6719" y="725" width="656" height="709"/>
+	<SubTexture name="Bloodiey_Dodge0001" x="7405" y="725" width="656" height="709"/>
+	<SubTexture name="Bloodiey_Dodge0002" x="30" y="1464" width="656" height="709"/>
+	<SubTexture name="Bloodiey_Dodge0003" x="716" y="1464" width="656" height="709"/>
+	<SubTexture name="Bloodiey_Dodge0004" x="1402" y="1464" width="656" height="709"/>
+	<SubTexture name="Bloodiey_Dodge0005" x="2088" y="1464" width="656" height="709"/>
+	<SubTexture name="Bloodiey_Dodge0006" x="2774" y="1464" width="656" height="709"/>
+	<SubTexture name="Bloodiey_Dodge0007" x="3460" y="1464" width="656" height="709"/>
+	<SubTexture name="Bloodiey_Dodge0008" x="4146" y="1464" width="656" height="709"/>
+	<SubTexture name="Bloodiey_Dodge0009" x="4832" y="1464" width="656" height="709"/>
+	<SubTexture name="Bloodiey_Dodge0010" x="5518" y="1464" width="656" height="709"/>
+	<SubTexture name="Bloodiey_Dodge0011" x="6204" y="1464" width="656" height="709"/>
+	<SubTexture name="Bloodiey_Dodge0012" x="6890" y="1464" width="656" height="709"/>
+	<SubTexture name="Bloodiey_Dodge0013" x="30" y="2203" width="656" height="709"/>
+	<SubTexture name="Bloodiey_Hey0000" x="716" y="2203" width="340" height="665"/>
+	<SubTexture name="Bloodiey_Hey0001" x="1086" y="2203" width="340" height="665"/>
+	<SubTexture name="Bloodiey_Hey0002" x="1456" y="2203" width="340" height="665"/>
+	<SubTexture name="Bloodiey_Hey0003" x="1826" y="2203" width="340" height="665"/>
+	<SubTexture name="Bloodiey_Hey0004" x="2196" y="2203" width="340" height="665"/>
+	<SubTexture name="Bloodiey_Hey0005" x="2566" y="2203" width="340" height="665"/>
+	<SubTexture name="Bloodiey_Hey0006" x="2936" y="2203" width="340" height="665"/>
+	<SubTexture name="Bloodiey_Hey0007" x="3306" y="2203" width="340" height="665"/>
+	<SubTexture name="Bloodiey_Hey0008" x="3676" y="2203" width="340" height="665"/>
+	<SubTexture name="Bloodiey_Hey0009" x="4046" y="2203" width="340" height="665"/>
+	<SubTexture name="Bloodiey_Hey0010" x="4416" y="2203" width="340" height="665"/>
+	<SubTexture name="Bloodiey_Hey0011" x="4786" y="2203" width="340" height="665"/>
+	<SubTexture name="Bloodiey_Hey0012" x="5156" y="2203" width="340" height="665"/>
+	<SubTexture name="Bloodiey_Hey0013" x="5526" y="2203" width="340" height="665"/>
+	<SubTexture name="Bloodiey_Hit0000" x="5896" y="2203" width="374" height="665" frameX="-84" frameY="-8" frameWidth="458" frameHeight="673"/>
+	<SubTexture name="Bloodiey_Hit0001" x="6300" y="2203" width="390" height="659" frameX="-68" frameY="-14" frameWidth="458" frameHeight="673"/>
+	<SubTexture name="Bloodiey_Hit0002" x="6720" y="2203" width="412" height="648" frameX="-46" frameY="-25" frameWidth="458" frameHeight="673"/>
+	<SubTexture name="Bloodiey_Hit0003" x="7162" y="2203" width="432" height="631" frameX="-26" frameY="-42" frameWidth="458" frameHeight="673"/>
+	<SubTexture name="Bloodiey_Hit0004" x="7624" y="2203" width="458" height="624" frameX="0" frameY="-49" frameWidth="458" frameHeight="673"/>
+	<SubTexture name="Bloodiey_Hit0005" x="30" y="2942" width="422" height="633" frameX="-26" frameY="-40" frameWidth="458" frameHeight="673"/>
+	<SubTexture name="Bloodiey_Hit0006" x="482" y="2942" width="393" height="650" frameX="-45" frameY="-23" frameWidth="458" frameHeight="673"/>
+	<SubTexture name="Bloodiey_Hit0007" x="905" y="2942" width="360" height="663" frameX="-67" frameY="-10" frameWidth="458" frameHeight="673"/>
+	<SubTexture name="Bloodiey_Hit0008" x="1295" y="2942" width="332" height="670" frameX="-84" frameY="-3" frameWidth="458" frameHeight="673"/>
+	<SubTexture name="Bloodiey_Hit0009" x="1657" y="2942" width="320" height="673" frameX="-84" frameY="0" frameWidth="458" frameHeight="673"/>
+	<SubTexture name="Bloodiey_Hit0010" x="2007" y="2942" width="310" height="671" frameX="-84" frameY="-2" frameWidth="458" frameHeight="673"/>
+	<SubTexture name="Bloodiey_Hit0011" x="2347" y="2942" width="310" height="671" frameX="-84" frameY="-2" frameWidth="458" frameHeight="673"/>
+	<SubTexture name="Bloodiey_Hit0012" x="2687" y="2942" width="310" height="671" frameX="-84" frameY="-2" frameWidth="458" frameHeight="673"/>
+	<SubTexture name="Bloodiey_Hit0013" x="3027" y="2942" width="310" height="671" frameX="-84" frameY="-2" frameWidth="458" frameHeight="673"/>
+	<SubTexture name="Bloodiey_Idle0000" x="3367" y="2942" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0001" x="3771" y="2942" width="363" height="662" frameX="0" frameY="-3" frameWidth="374" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Idle0002" x="4164" y="2942" width="351" height="658" frameX="0" frameY="-7" frameWidth="374" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Idle0003" x="4545" y="2942" width="338" height="654" frameX="0" frameY="-11" frameWidth="374" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Idle0004" x="4913" y="2942" width="357" height="664" frameX="0" frameY="-1" frameWidth="374" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Idle0005" x="5300" y="2942" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0006" x="5704" y="2942" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0007" x="6108" y="2942" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0008" x="6512" y="2942" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0009" x="6916" y="2942" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0010" x="7320" y="2942" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0011" x="7724" y="2942" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0012" x="30" y="3645" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0013" x="434" y="3645" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Left0000" x="838" y="3645" width="351" height="635"/>
+	<SubTexture name="Bloodiey_Left0001" x="1219" y="3645" width="351" height="635"/>
+	<SubTexture name="Bloodiey_Left0002" x="1600" y="3645" width="351" height="635"/>
+	<SubTexture name="Bloodiey_Left0003" x="1981" y="3645" width="351" height="635"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0000" x="2362" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0001" x="2743" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0002" x="3124" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0003" x="3505" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0004" x="3886" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0005" x="4267" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0006" x="4648" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0007" x="5029" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0008" x="5410" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0009" x="5791" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0010" x="6172" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0011" x="6553" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0012" x="6934" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0013" x="7315" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0014" x="7696" y="3645" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0015" x="30" y="4340" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Confirm0016" x="411" y="4340" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Inicio0000" x="792" y="4340" width="329" height="656" frameX="-59" frameY="0" frameWidth="393" frameHeight="656"/>
+	<SubTexture name="Bloodiey_Lose_Inicio0001" x="1151" y="4340" width="357" height="650" frameX="-36" frameY="-6" frameWidth="393" frameHeight="656"/>
+	<SubTexture name="Bloodiey_Lose_Inicio0002" x="1538" y="4340" width="349" height="624" frameX="-6" frameY="-32" frameWidth="393" frameHeight="656"/>
+	<SubTexture name="Bloodiey_Lose_Inicio0003" x="1917" y="4340" width="351" height="620" frameX="0" frameY="-36" frameWidth="393" frameHeight="656"/>
+	<SubTexture name="Bloodiey_Lose_Inicio0004" x="2298" y="4340" width="351" height="620" frameX="0" frameY="-36" frameWidth="393" frameHeight="656"/>
+	<SubTexture name="Bloodiey_Lose_Inicio0005" x="2679" y="4340" width="351" height="620" frameX="0" frameY="-36" frameWidth="393" frameHeight="656"/>
+	<SubTexture name="Bloodiey_Lose_Inicio0006" x="3060" y="4340" width="351" height="620" frameX="0" frameY="-36" frameWidth="393" frameHeight="656"/>
+	<SubTexture name="Bloodiey_Lose_Inicio0007" x="3441" y="4340" width="351" height="620" frameX="0" frameY="-36" frameWidth="393" frameHeight="656"/>
+	<SubTexture name="Bloodiey_Lose_Inicio0008" x="3822" y="4340" width="351" height="620" frameX="0" frameY="-36" frameWidth="393" frameHeight="656"/>
+	<SubTexture name="Bloodiey_Lose_Inicio0009" x="4203" y="4340" width="351" height="620" frameX="0" frameY="-36" frameWidth="393" frameHeight="656"/>
+	<SubTexture name="Bloodiey_Lose_Inicio0010" x="4584" y="4340" width="351" height="620" frameX="0" frameY="-36" frameWidth="393" frameHeight="656"/>
+	<SubTexture name="Bloodiey_Lose_Inicio0011" x="4965" y="4340" width="351" height="620" frameX="0" frameY="-36" frameWidth="393" frameHeight="656"/>
+	<SubTexture name="Bloodiey_Lose_Inicio0012" x="5346" y="4340" width="351" height="620" frameX="0" frameY="-36" frameWidth="393" frameHeight="656"/>
+	<SubTexture name="Bloodiey_Lose_Inicio0013" x="5727" y="4340" width="351" height="620" frameX="0" frameY="-36" frameWidth="393" frameHeight="656"/>
+	<SubTexture name="Bloodiey_Lose_Loop0000" x="6108" y="4340" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0001" x="6489" y="4340" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0002" x="6870" y="4340" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0003" x="7251" y="4340" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0004" x="7632" y="4340" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0005" x="30" y="5026" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0006" x="411" y="5026" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0007" x="792" y="5026" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0008" x="1173" y="5026" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0009" x="1554" y="5026" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0010" x="1935" y="5026" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0011" x="2316" y="5026" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0012" x="2697" y="5026" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0013" x="3078" y="5026" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0014" x="3459" y="5026" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0015" x="3840" y="5026" width="351" height="620"/>
+	<SubTexture name="Bloodiey_Lose_Loop0016" x="4221" y="5026" width="351" height="620"/>
+	<SubTexture name="Bloodiey_MDOWN0000" x="4602" y="5026" width="306" height="652"/>
+	<SubTexture name="Bloodiey_MDOWN0001" x="4938" y="5026" width="306" height="652"/>
+	<SubTexture name="Bloodiey_MDOWN0002" x="5274" y="5026" width="306" height="652"/>
+	<SubTexture name="Bloodiey_MDOWN0003" x="5610" y="5026" width="306" height="652"/>
+	<SubTexture name="Bloodiey_MLeft0000" x="5946" y="5026" width="351" height="626"/>
+	<SubTexture name="Bloodiey_MLeft0001" x="6327" y="5026" width="351" height="626"/>
+	<SubTexture name="Bloodiey_MLeft0002" x="6708" y="5026" width="351" height="626"/>
+	<SubTexture name="Bloodiey_MLeft0003" x="7089" y="5026" width="351" height="626"/>
+	<SubTexture name="Bloodiey_MRIGHT0000" x="7470" y="5026" width="372" height="650"/>
+	<SubTexture name="Bloodiey_MRIGHT0001" x="30" y="5708" width="372" height="650"/>
+	<SubTexture name="Bloodiey_MRIGHT0002" x="432" y="5708" width="372" height="650"/>
+	<SubTexture name="Bloodiey_MRIGHT0003" x="834" y="5708" width="372" height="650"/>
+	<SubTexture name="Bloodiey_MUP0000" x="1236" y="5708" width="355" height="652"/>
+	<SubTexture name="Bloodiey_MUP0001" x="1621" y="5708" width="355" height="652"/>
+	<SubTexture name="Bloodiey_MUP0002" x="2006" y="5708" width="355" height="652"/>
+	<SubTexture name="Bloodiey_MUP0003" x="2391" y="5708" width="355" height="652"/>
+	<SubTexture name="Bloodiey_RIGHT0000" x="2776" y="5708" width="372" height="650"/>
+	<SubTexture name="Bloodiey_RIGHT0001" x="3178" y="5708" width="372" height="650"/>
+	<SubTexture name="Bloodiey_RIGHT0002" x="3580" y="5708" width="372" height="650"/>
+	<SubTexture name="Bloodiey_RIGHT0003" x="3982" y="5708" width="372" height="650"/>
+	<SubTexture name="Bloodiey_Shaking0000" x="4384" y="5708" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Shaking0001" x="4788" y="5708" width="363" height="662" frameX="0" frameY="-3" frameWidth="374" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Shaking0002" x="5181" y="5708" width="351" height="658" frameX="0" frameY="-7" frameWidth="374" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Shaking0003" x="5562" y="5708" width="338" height="654" frameX="0" frameY="-11" frameWidth="374" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Shaking0004" x="5930" y="5708" width="357" height="664" frameX="0" frameY="-1" frameWidth="374" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Shaking0005" x="6317" y="5708" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Shaking0006" x="6721" y="5708" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Shaking0007" x="7125" y="5708" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Shaking0008" x="7529" y="5708" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Shaking0009" x="30" y="6403" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Shaking0010" x="434" y="6403" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Shaking0011" x="838" y="6403" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Shaking0012" x="1242" y="6403" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Shaking0013" x="1646" y="6403" width="374" height="665"/>
+	<SubTexture name="Bloodiey_UP0000" x="2050" y="6403" width="355" height="652"/>
+	<SubTexture name="Bloodiey_UP0001" x="2435" y="6403" width="355" height="652"/>
+	<SubTexture name="Bloodiey_UP0002" x="2820" y="6403" width="355" height="652"/>
+	<SubTexture name="Bloodiey_UP0003" x="3205" y="6403" width="355" height="652"/>
+</TextureAtlas>
