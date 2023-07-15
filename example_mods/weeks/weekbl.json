@@ -3,18 +3,14 @@
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "liltown",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"bloodiey",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"source-code",
@@ -33,9 +29,22 @@
 				13,
 				253
 			]
+		],
+		[
+			"system-handle",
+			"bloodiey-angry",
+			[
+				0,
+				0,
+				255
+			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "Vs-bloodiey",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"bloodiey",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Vs-bloodiey"
 }
