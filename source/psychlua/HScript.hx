@@ -1,11 +1,11 @@
 package psychlua;
 
+import tea.SScript;
 import objects.Character;
 import psychlua.FunkinLua;
 import psychlua.CustomSubstate;
 
-#if (HSCRIPT_ALLOWED && SScript >= "3.0.0")
-import tea.SScript;
+#if (SScript >= "3.0.0")
 class HScript extends SScript
 {
 	public var parentLua:FunkinLua;

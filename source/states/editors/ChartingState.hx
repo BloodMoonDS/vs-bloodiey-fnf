@@ -487,12 +487,10 @@ class ChartingState extends MusicBeatState
 		var directories:Array<String> = [Paths.getPreloadPath('characters/')];
 		#end
 
-		var tempArray:Array<String> = [];
-		var characters:Array<String> = Mods.mergeAllTextsNamed('data/characterList.txt', Paths.getPreloadPath());
-		for (character in characters)
-		{
-			if(character.trim().length > 0)
-				tempArray.push(character);
+		var tempMap:Map<String, Bool> = new Map<String, Bool>();
+		var characters:Array<String> = CoolUtil.coolTextFile(Paths.txt('characterList'));
+		for (i in 0...characters.length) {
+			tempMap.set(characters[i], true);
 		}
 
 		#if MODS_ALLOWED
@@ -503,8 +501,8 @@ class ChartingState extends MusicBeatState
 					var path = haxe.io.Path.join([directory, file]);
 					if (!FileSystem.isDirectory(path) && file.endsWith('.json')) {
 						var charToCheck:String = file.substr(0, file.length - 5);
-						if(charToCheck.trim().length > 0 && !charToCheck.endsWith('-dead') && !tempArray.contains(charToCheck)) {
-							tempArray.push(charToCheck);
+						if(!charToCheck.endsWith('-dead') && !tempMap.exists(charToCheck)) {
+							tempMap.set(charToCheck, true);
 							characters.push(charToCheck);
 						}
 					}
@@ -512,7 +510,6 @@ class ChartingState extends MusicBeatState
 			}
 		}
 		#end
-		tempArray = [];
 
 		var player1DropDown = new FlxUIDropDownMenu(10, stepperSpeed.y + 45, FlxUIDropDownMenu.makeStrIdLabelArray(characters, true), function(character:String)
 		{
@@ -546,13 +543,15 @@ class ChartingState extends MusicBeatState
 		var directories:Array<String> = [Paths.getPreloadPath('stages/')];
 		#end
 
-		var stageFile:Array<String> = Mods.mergeAllTextsNamed('data/stageList.txt', Paths.getPreloadPath());
+		tempMap.clear();
+		var stageFile:Array<String> = CoolUtil.coolTextFile(Paths.txt('stageList'));
 		var stages:Array<String> = [];
-		for (stage in stageFile) {
-			if(stage.trim().length > 0) {
-				stages.push(stage);
+		for (i in 0...stageFile.length) { //Prevent duplicates
+			var stageToCheck:String = stageFile[i];
+			if(!tempMap.exists(stageToCheck)) {
+				stages.push(stageToCheck);
 			}
-			tempArray.push(stage);
+			tempMap.set(stageToCheck, true);
 		}
 		#if MODS_ALLOWED
 		for (i in 0...directories.length) {
@@ -562,8 +561,8 @@ class ChartingState extends MusicBeatState
 					var path = haxe.io.Path.join([directory, file]);
 					if (!FileSystem.isDirectory(path) && file.endsWith('.json')) {
 						var stageToCheck:String = file.substr(0, file.length - 5);
-						if(stageToCheck.trim().length > 0 && !tempArray.contains(stageToCheck)) {
-							tempArray.push(stageToCheck);
+						if(!tempMap.exists(stageToCheck)) {
+							tempMap.set(stageToCheck, true);
 							stages.push(stageToCheck);
 						}
 					}
