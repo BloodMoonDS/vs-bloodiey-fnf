@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bloodiey_Behind.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bloodiey_Idle0000" x="0" y="0" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0001" x="374" y="0" width="363" height="662" frameX="0" frameY="-3" frameWidth="374" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Idle0002" x="737" y="0" width="351" height="658" frameX="0" frameY="-7" frameWidth="374" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Idle0003" x="1088" y="0" width="338" height="654" frameX="0" frameY="-11" frameWidth="374" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Idle0004" x="1426" y="0" width="357" height="664" frameX="0" frameY="-1" frameWidth="374" frameHeight="665"/>
+	<SubTexture name="Bloodiey_Idle0005" x="0" y="665" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0006" x="374" y="665" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0007" x="748" y="665" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0008" x="1122" y="665" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0009" x="1496" y="665" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0010" x="0" y="1330" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0011" x="374" y="1330" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0012" x="748" y="1330" width="374" height="665"/>
+	<SubTexture name="Bloodiey_Idle0013" x="1122" y="1330" width="374" height="665"/>
+</TextureAtlas>

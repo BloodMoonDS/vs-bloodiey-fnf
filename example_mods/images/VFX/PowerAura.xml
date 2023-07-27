@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PowerAura.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PowerAura0000" x="0" y="0" width="579" height="568"/>
+	<SubTexture name="PowerAura0001" x="579" y="0" width="579" height="568"/>
+	<SubTexture name="PowerAura0002" x="1158" y="0" width="579" height="568"/>
+	<SubTexture name="PowerAura0003" x="0" y="568" width="579" height="568"/>
+	<SubTexture name="PowerAura0004" x="0" y="1136" width="579" height="568"/>
+	<SubTexture name="PowerAura0005" x="579" y="568" width="579" height="568"/>
+	<SubTexture name="PowerAura0006" x="1158" y="568" width="579" height="568"/>
+</TextureAtlas>

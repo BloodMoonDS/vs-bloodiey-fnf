@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bloodieyM.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Menu_BloodieyCat_Idle0000" x="2" y="2" width="400" height="642" frameX="-2" frameY="0" frameWidth="402" frameHeight="643"/>
+	<SubTexture name="Menu_BloodieyCat_Idle0001" x="2" y="2" width="400" height="642" frameX="-2" frameY="0" frameWidth="402" frameHeight="643"/>
+	<SubTexture name="Menu_BloodieyCat_Idle0002" x="404" y="2" width="400" height="642" frameX="0" frameY="0" frameWidth="402" frameHeight="643"/>
+	<SubTexture name="Menu_BloodieyCat_Idle0003" x="404" y="2" width="400" height="642" frameX="0" frameY="0" frameWidth="402" frameHeight="643"/>
+	<SubTexture name="Menu_BloodieyCat_Idle0004" x="2" y="646" width="398" height="605" frameX="0" frameY="-38" frameWidth="402" frameHeight="643"/>
+	<SubTexture name="Menu_BloodieyCat_Idle0005" x="2" y="646" width="398" height="605" frameX="0" frameY="-38" frameWidth="402" frameHeight="643"/>
+	<SubTexture name="Menu_BloodieyCat_Idle0006" x="402" y="646" width="400" height="642" frameX="0" frameY="0" frameWidth="402" frameHeight="643"/>
+	<SubTexture name="Menu_BloodieyCat_Idle0007" x="402" y="646" width="400" height="642" frameX="0" frameY="0" frameWidth="402" frameHeight="643"/>
+	<SubTexture name="Menu_BloodieyCat_Idle0008" x="2" y="2" width="400" height="642" frameX="-2" frameY="0" frameWidth="402" frameHeight="643"/>
+	<SubTexture name="Menu_BloodieyCat_Idle0009" x="2" y="2" width="400" height="642" frameX="-2" frameY="0" frameWidth="402" frameHeight="643"/>
+	<SubTexture name="Menu_BloodieyCat_Idle0010" x="2" y="2" width="400" height="642" frameX="-2" frameY="0" frameWidth="402" frameHeight="643"/>
+	<SubTexture name="Menu_BloodieyCat_Idle0011" x="2" y="2" width="400" height="642" frameX="-2" frameY="0" frameWidth="402" frameHeight="643"/>
+	<SubTexture name="Menu_BloodieyCat_Idle0012" x="2" y="2" width="400" height="642" frameX="-2" frameY="0" frameWidth="402" frameHeight="643"/>
+	<SubTexture name="Menu_BloodieyCat_Idle0013" x="2" y="2" width="400" height="642" frameX="-2" frameY="0" frameWidth="402" frameHeight="643"/>
+</TextureAtlas>

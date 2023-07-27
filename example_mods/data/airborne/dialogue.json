@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bloodiey",
+			"boxState": "normal",
+			"expression": "blush",
+			"text": "uhhh I didn't expect that!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Skeed bee boo!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bloodiey",
+			"boxState": "normal",
+			"expression": "Grasa",
+			"text": "yes i know I just suck at this"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "dont be so pessimistic!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bloodiey",
+			"boxState": "normal",
+			"expression": "Grasa",
+			"text": "I'm not pessimistic I'm just telling the truth"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Bee boo pa?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bloodiey",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes why not?"
+		}
+	]
+}

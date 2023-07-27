@@ -52,10 +52,14 @@
 	<set name="BUILD_DIR" value="export/32bit" if="32bits" />
 
 	<classpath name="source" />
-
-	<!-- __________________________ Game Assets & Etc. __________________________ -->
 	
-	<!-- Turn on Crash Handler -->
+	<!-- PSYCH ENGINE CUSTOMIZATION -->
+	<define name="MODS_ALLOWED" if="desktop" />
+	<define name="LUA_ALLOWED" if="desktop" />
+	<define name="ACHIEVEMENTS_ALLOWED" />
+	<define name="VIDEOS_ALLOWED" if="web || windows" unless="32bits"/>
+	<!--define name="PSYCH_WATERMARKS"/--> <!-- DELETE THIS TO REMOVE WATERMARKS/DEV NAMES ON TITLE SCREEN -->
+	<define name="TITLE_SCREEN_EASTER_EGG" /> <!-- DELETE THE if="officialBuild" for enabling this on an unofficial build -->
 	<define name="CRASH_HANDLER" if="desktop release" />
 
 	<!-- Preload Assets -->
@@ -70,10 +74,13 @@
 		<assets path="assets/secrets" rename="assets" exclude="*.mp3"  unless="web"/>
 	</section>
 
-	<!-- DONT ENABLE THIS -->
+	<!-- DONT ENABLE THIS 
 	<define name="CHECK_FOR_UPDATES" if="desktop officialBuild"/>
-
-	<!-- Week Assets -->
+    -->
+	<!-- <define name="PRELOAD_ALL" /> -->
+	<define name="PRELOAD_ALL" unless="web" />
+	<define name="NO_PRELOAD_ALL" unless="PRELOAD_ALL"/>
+	
 	<library name="videos"        preload="true" />
 	<section if="PRELOAD_ALL">
 		<library name="songs"         preload="true" />
@@ -99,7 +106,16 @@
 		<assets path='example_mods' rename='mods' embed='false'/>
 	</section>
 	<assets path='art/readme.txt' rename='do NOT readme.txt' />
+	<!-- <template path='mods' /> -->
+	
+	<!-- assets path="CHANGELOG.md" rename='changelog.txt' -->
 
+	<!-- NOTE FOR FUTURE SELF SINCE FONTS ARE ALWAYS FUCKY 
+		TO FIX ONE OF THEM, I CONVERTED IT TO OTF. DUNNO IF YOU NEED TO
+		THEN UHHH I USED THE NAME OF THE FONT WITH SETFORMAT() ON THE TEXT!!!
+		NOT USING A DIRECT THING TO THE ASSET!!!
+	-->
+	<assets path="assets/fonts" />
 	<!-- _______________________________ Libraries ______________________________ -->
 
 	<haxelib name="flixel" />
@@ -111,9 +127,9 @@
 	<haxelib name="SScript" if="HSCRIPT_ALLOWED"/>
 	<haxelib name="hxCodec" if="VIDEOS_ALLOWED"/>
 	<haxelib name="discord_rpc" if="desktop"/>
-	<haxelib name="tjson" />
-	<haxedef name="openflPos" />
-	<haxedef name="hscriptPos" />
+
+	<!-- Enables a terminal log prompt on debug builds -->
+	<haxelib name="hxcpp-debug-server" if="debug"/>
 
 	<!-- Enables a terminal log prompt on debug builds -->
 	<haxelib name="hxcpp-debug-server" if="debug"/>
@@ -169,7 +185,13 @@
 	<!--Place custom nodes like icons here (higher priority to override the HaxeFlixel icon)-->
 	
 	<icon path="art/icon16.png" size='16'/>
+	<icon path="art/icon24.png" size='24'/>
 	<icon path="art/icon32.png" size='32'/>
+	<icon path="art/icon48.png" size='48'/>
 	<icon path="art/icon64.png" size='64'/>
+	<icon path="art/icon128.png" size='128'/>
+	<icon path="art/icon192.png" size='192'/>
+	<icon path="art/icon256.png" size='256'/>
+	<icon path="art/icon320.png" size='320'/>
 	<icon path="art/iconOG.png" />
 </project>

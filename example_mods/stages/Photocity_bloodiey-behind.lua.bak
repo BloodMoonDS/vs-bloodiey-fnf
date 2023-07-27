@@ -1,0 +1,44 @@
+function onCreate()
+	makeLuaSprite('Sky','stages/Photocity/Sky', -600, -300);
+	makeLuaSprite('CityBack','stages/Photocity/Bg', -600, -300);
+	makeLuaSprite('BuildingBack','stages/Photocity/Bgbuilding', -600, -300);
+	makeLuaSprite('buildingCelling','stages/Photocity/backgroundFloor', -600, -300);
+	makeAnimatedLuaSprite('Bloodiey_Idle','stages/Photocity/Bloodiey_Behind',900,0);
+	if not lowQuality then -- ima optimizing this shit for a tosater
+
+		setScrollFactor('buildingCelling', 1.0, 1.0);
+		scaleObject('buildingCelling', 1.0, 1.0);
+		setScrollFactor('BuildingBack', 0.9, 0.9);
+		scaleObject('BuildingBack', 1.0, 1.0);
+		setScrollFactor('CityBack', 0.7, 0.7);
+		scaleObject('CityBack', 0.4, 0.4);
+		setScrollFactor('Sky', 1, 1);
+		addLuaSprite('Sky',false);
+		addLuaSprite('CityBack',false);
+		addLuaSprite('BuildingBack',false);
+		addLuaSprite('buildingCelling',false);
+	else
+		makeLuaSprite('optimizedImage','stages/Photocity/Optimal', -600, -300);
+		addLuaSprite('optimizedImage',false);
+	end
+	
+	scaleObject('Bloodiey_Idle', -1, 1);
+	addLuaSprite('Bloodiey_Idle',false);
+	close(true);
+end
+
+function onBeatHit()
+
+
+end
+function onStepHit()
+
+
+
+end
+
+function onUpdate()
+
+
+
+end
