@@ -1,6 +1,6 @@
 # Friday Night Funkin' Vs Bloodiey
 
-![Logo OG](art/iconOG.png)
+![Logo OG](art/icon128.png)
 
 ## About
 
@@ -30,6 +30,12 @@ Some of the FlashFiles are located in <code>art/flashFiles</code> with the fnf o
 
 If there are some things that are "incorrect" Before making a Tweet Exposing me please notify
 me for further modifications, adjustments, and censorship
+
+## Preview
+
+![ScreenCap1](art/sillyArt/258674669-86fd80a6-6c8b-4c70-8e3f-3b38b46c0a37.png)
+![ScreenCap2](art/sillyArt/258674673-212dfde4-a239-4cef-87e4-ba17b746b5de.png)
+![ScreenCap2](art/sillyArt/258674676-d3122160-7b10-49f5-a45f-0e2f3b1b802e.png)
 
 ## Avoid
 
