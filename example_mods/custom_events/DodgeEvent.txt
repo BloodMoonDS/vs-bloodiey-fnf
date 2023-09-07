@@ -1,3 +1,0 @@
-Value1 is how much time you have to dodge.
-Value2 not defined
-thx AetherLynx for da script

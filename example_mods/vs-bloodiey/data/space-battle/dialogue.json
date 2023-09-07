@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Well that was nice tho",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bloodiey"
+		},
+		{
+			"expression": "pissed",
+			"text": "Sked bo be",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Serious",
+			"text": "Uhhhh thats rude man...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bloodiey"
+		},
+		{
+			"expression": "pissed",
+			"text": "Sked bo bip",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "hey stop it!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "pissed",
+			"text": "sked bo be do!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Grasa",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bloodiey"
+		},
+		{
+			"expression": "Serious",
+			"text": "So, you want to make me angry dont you?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.18,
+			"portrait": "bloodiey"
+		},
+		{
+			"expression": "confused",
+			"text": "be...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bloodiey",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "anyway lets move on where we left."
+		},
+		{
+			"sound": "",
+			"speed": 0.175,
+			"portrait": "bloodiey",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "your habilities won't be enough"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "bo..."
+		},
+		{
+			"sound": "",
+			"speed": 0.13,
+			"portrait": "bloodiey",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well... we have work to do so lets move on..."
+		}
+	]
+}

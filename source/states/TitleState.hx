@@ -585,9 +585,9 @@ class TitleState extends MusicBeatState
 				// credTextShit.screenCenter();
 				case 6:
 					#if PSYCH_WATERMARKS
-					createCoolText(['Not associated', 'with'], -40);
+					createCoolText(['NO associated', 'with'], -40);
 					#else
-					createCoolText(['In association', 'with'], -40);
+					createCoolText(['NO associated', 'with'], -40);
 					#end
 				case 8:
 					addMoreText('newgrounds', -40);
@@ -619,8 +619,11 @@ class TitleState extends MusicBeatState
 				// credTextShit.text += '\nNight';
 				case 16:
 					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
-
 				case 17:
+					addMoreText('vs');
+				case 18:
+					addMoreText('bloodiey');
+				case 19:
 					skipIntro();
 			}
 		}

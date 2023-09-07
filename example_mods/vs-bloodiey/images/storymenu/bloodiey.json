@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "BloodieyIDLE instancia 1",
+	"idle_anim": "BloodieyIDLE instancia 1",
+	"position": [
+		80,
+		90
+	],
+	"scale": 0.6,
+	"image": "bloodieyM"
+}

@@ -1,3 +1,0 @@
-Value 1: The text you want to display
-
-Value 2: Nothing

@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				230
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bloodiey_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				230
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "Bloodiey_Attack0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				227
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Bloodiey_Attack",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				150,
+				254
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Bloodiey_Dodge",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				15,
+				204
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bloodiey_Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-40,
+				220
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bloodiey_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				199
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Bloodiey_MLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				221
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Bloodiey_MDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				217
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Bloodiey_MUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				222
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Bloodiey_MRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				234
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Bloodiey_Hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				238
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Bloodiey_Hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-54,
+				230
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "Bloodiey_Shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				221
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Bloodiey_Lose_Inicio",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				195
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Bloodiey_Lose_Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				195
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Bloodiey_Lose_Confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-78,
+				223
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bloodiey_RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-29,
+				217
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bloodiey_UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bloodiey_Corrupted4",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bloodieyc3",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		243,
+		146
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
