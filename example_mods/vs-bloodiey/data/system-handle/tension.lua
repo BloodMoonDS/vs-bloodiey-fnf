@@ -1,3 +1,5 @@
+-- Tension Script made by bloodiey 2023 :D
+
 --Config
 local aggresivity = 15 --amount of pressure that applies (don't use too high values please)
 local tween_speed = 0.000000001 -- speed of the tweeening
