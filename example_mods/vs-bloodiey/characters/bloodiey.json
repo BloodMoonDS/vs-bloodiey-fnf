@@ -1,81 +1,81 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				-121,
 				-87
 			],
-			"anim": "singLEFT",
+			"loop": true,
 			"fps": 24,
-			"name": "BloodieyCat_Left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BloodieyCat_Left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-135,
 				-96
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "BloodieyCat_Down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BloodieyCat_Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-134,
 				-70
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "BloodieyCat_Up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "BloodieyCat_Up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-151,
 				-86
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "BloodieyCat_Right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BloodieyCat_Right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-134,
 				-89
 			],
-			"anim": "chargeFoward",
+			"loop": false,
 			"fps": 24,
-			"name": "BloodieyCat_Attack",
-			"indices": []
+			"anim": "chargeFoward",
+			"indices": [],
+			"name": "BloodieyCat_Attack"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-131,
 				-86
 			],
-			"anim": "attack",
+			"loop": false,
 			"fps": 24,
-			"name": "BloodieyCat_Attack",
-			"indices": []
+			"anim": "attack",
+			"indices": [],
+			"name": "BloodieyCat_Attack"
 		},
 		{
+			"loop": true,
 			"offsets": [
 				-136,
 				-88
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "BloodieyCat_Idle"
+			"fps": 24,
+			"name": "BloodieyCat_Idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -87,8 +87,8 @@
 	"healthicon": "bloodiey",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		255,
+		0,
+		160,
 		255
 	],
 	"camera_position": [

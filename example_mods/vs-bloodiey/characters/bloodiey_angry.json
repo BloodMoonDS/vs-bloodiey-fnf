@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-121,
-				-87
+				-101,
+				-57
 			],
 			"loop": true,
 			"fps": 24,
@@ -25,7 +25,7 @@
 		{
 			"offsets": [
 				-134,
-				-70
+				-20
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-151,
-				-86
+				-131,
+				-56
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-134,
-				-89
+				-124,
+				-59
 			],
 			"loop": false,
 			"fps": 24,
@@ -58,7 +58,7 @@
 		{
 			"offsets": [
 				-120,
-				30
+				-60
 			],
 			"loop": false,
 			"fps": 24,
@@ -69,8 +69,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				-146,
-				-44
+				-136,
+				-54
 			],
 			"anim": "idle",
 			"fps": 24,
@@ -87,8 +87,8 @@
 	"healthicon": "bloodiey-angry",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		255,
+		0,
+		160,
 		255
 	],
 	"camera_position": [

@@ -33,15 +33,17 @@ me for further modifications, adjustments, and censorship
 
 ## Preview
 
-![ScreenCap1](art/sillyArt/258674669-86fd80a6-6c8b-4c70-8e3f-3b38b46c0a37.png)
-![ScreenCap2](art/sillyArt/258674673-212dfde4-a239-4cef-87e4-ba17b746b5de.png)
-![ScreenCap2](art/sillyArt/258674676-d3122160-7b10-49f5-a45f-0e2f3b1b802e.png)
+![ScreenCap1](art/sillyArt/Cap´ture%20Blue%20White%20Bloodiey%20(1).png)
+![ScreenCap2](art/sillyArt/Cap´ture%20Blue%20White%20Bloodiey%20(2).png)
+![ScreenCap2](art/sillyArt/Cap´ture%20Blue%20White%20Bloodiey%20(3).png)
+![ScreenCap2](art/sillyArt/Cap´ture%20Blue%20White%20Bloodiey%20(4).png)
+![ScreenCap2](art/sillyArt/Cap´ture%20Blue%20White%20Bloodiey%20(5).png)
 
 ## Avoid
 
 Please Avoid using my characters without my permission, NSFW can be made since I can't control that side of the internet But when you are creating a mod You must ask before use And I Should approve the sprites (I'm Not Strict So Maybe you can publish it)
 
-Do Not Use My character With Offensive/Controversial Intents (You will be exposed)
+Do Not Use My character With Offensive/Controversial Intents (You will be exposed and probably not by me)
 
 Memes are allowed only if they are not Controversial
 
