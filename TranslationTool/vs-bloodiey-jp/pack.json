@@ -1,0 +1,7 @@
+{
+	"name": "IDIOMA: Español",
+	"description": "Traduccion al español del mod vs bloodiey",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [255, 139, 0]
+}

@@ -8,6 +8,10 @@ function onCreate()
 	scaleObject('stagefront', 1, 1);
 	
 	if not lowQuality then
+		makeAnimatedLuaSprite("Persons", "stage/liltown/City" ,100, 300,"sparrow");
+		addAnimationByPrefix("Persons", "yeet", "Símbolo 1", 24, true);
+		setScrollFactor('Persons', 1, 1);
+		scaleObject("Persons", 1.2, 1.2, true);
 
 		makeLuaSprite('CITYBG', 'stage/liltown/CityBG', -400, -300);
 		setScrollFactor('CITYBG', 1, 1);
@@ -29,6 +33,10 @@ function onCreate()
 	end
 	
 	addLuaSprite('stagefront', false);
-	
+	if not lowQuality then
+		addLuaSprite('Persons', false);
+		objectPlayAnimation("Persons", "yeet", false, 0);
+		debugPrint('Animation Persons played', '', '', '', '')
+	end
 	close(true); --For performance reasons, close this script once the stage is fully loaded, as this script won't be used anymore after loading the stage
 end
