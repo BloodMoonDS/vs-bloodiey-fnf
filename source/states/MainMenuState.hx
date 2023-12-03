@@ -16,9 +16,10 @@ import options.OptionsState;
 
 class MainMenuState extends MusicBeatState
 {
-	public static var psychEngineVersion:String = '0.7h'; //This is also used for Discord RPC
+	public static var psychEngineVersion:String = '0.7.1h'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
-	public static var BloodieyVersion:String = '0.0.2.1 (0.0.3 Beta)';
+	public static var bloodieyver:String = 'beta 1h'; 
+
 	var menuItems:FlxTypedGroup<FlxSprite>;
 	private var camGame:FlxCamera;
 	private var camAchievement:FlxCamera;
@@ -123,7 +124,7 @@ class MainMenuState extends MusicBeatState
 		var versionShit:FlxText = new FlxText(12, FlxG.height - 24, 0, "Friday Night Funkin' v" + Application.current.meta.get('version'), 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
-		var versionShit:FlxText = new FlxText(12, FlxG.height - 24, 0, "Vs Bloodiey' Build :" + BloodieyVersion, 12);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 24, 0, "VS Bloodiey Beta 1" + bloodieyver, 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);

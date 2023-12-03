@@ -199,7 +199,7 @@ class TitleState extends MusicBeatState
 			}
 		}
 
-		Conductor.changeBPM(titleJSON.bpm);
+		Conductor.bpm = titleJSON.bpm;
 		persistentUpdate = true;
 
 		var bg:FlxSprite = new FlxSprite();
@@ -585,9 +585,9 @@ class TitleState extends MusicBeatState
 				// credTextShit.screenCenter();
 				case 6:
 					#if PSYCH_WATERMARKS
-					createCoolText(['NOT associated', 'with'], -40);
+					createCoolText(['Not associated', 'with'], -40);
 					#else
-					createCoolText(['NOT associated', 'with'], -40);
+					createCoolText(['In association', 'with'], -40);
 					#end
 				case 8:
 					addMoreText('newgrounds', -40);
@@ -619,11 +619,8 @@ class TitleState extends MusicBeatState
 				// credTextShit.text += '\nNight';
 				case 16:
 					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
+
 				case 17:
-					addMoreText('vs');
-				case 18:
-					addMoreText('Bloodiey');
-				case 19:
 					skipIntro();
 			}
 		}
