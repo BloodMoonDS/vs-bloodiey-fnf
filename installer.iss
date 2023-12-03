@@ -43,21 +43,21 @@ Name: "spanish"; MessagesFile: "compiler:Languages\Spanish.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\Change_Language.bat"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\Change_language.py"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\do NOT readme.txt"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\icon.ico"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\libvlc.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\libvlccore.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\lime.ndll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\modsList.txt"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\PsychEngine.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\assets\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\manifest\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\mods\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\plugins\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "C:\Users\blood\source\repos\vs-bloodiey-fnf\export\release\windows\bin\TranslationTool\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "export\release\windows\bin\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
+Source: "export\release\windows\bin\Change_Language.bat"; DestDir: "{app}"; Flags: ignoreversion
+Source: "export\release\windows\bin\Change_language.py"; DestDir: "{app}"; Flags: ignoreversion
+Source: "export\release\windows\bin\do NOT readme.txt"; DestDir: "{app}"; Flags: ignoreversion
+Source: "export\release\windows\bin\icon.ico"; DestDir: "{app}"; Flags: ignoreversion
+Source: "export\release\windows\bin\libvlc.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "export\release\windows\bin\libvlccore.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "export\release\windows\bin\lime.ndll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "export\release\windows\bin\modsList.txt"; DestDir: "{app}"; Flags: ignoreversion
+Source: "export\release\windows\bin\PsychEngine.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "export\release\windows\bin\assets\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "export\release\windows\bin\manifest\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "export\release\windows\bin\mods\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "export\release\windows\bin\plugins\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "export\release\windows\bin\TranslationTool\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Registry]
