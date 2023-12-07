@@ -1,0 +1,18 @@
+body {
+    display: block;
+    margin: 8px;
+    background-color: black;
+    background-image: url("assets/menuBGBlue.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-clip: content-box;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: gray;
+    background-color: black;
+}
