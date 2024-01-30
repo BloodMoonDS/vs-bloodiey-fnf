@@ -1,5 +1,0 @@
-(Requires Skybox compatible Stage) 
-Changes the sky to an specific one
-
-Value 1: Skybox type 1 = normal 2 = red 3 = space
-Value 2: Not Needed

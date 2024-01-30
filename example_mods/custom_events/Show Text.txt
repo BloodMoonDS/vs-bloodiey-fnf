@@ -1,0 +1,6 @@
+Shows A text On the Screen
+Value 1: Text
+Example: DIE!
+
+Value 2: Fade Time
+Example 1
