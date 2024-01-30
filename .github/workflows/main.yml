@@ -89,8 +89,9 @@ jobs:
         run: |
           haxelib setup ~/haxelib
           haxelib install hxcpp > /dev/null --quiet
-          haxelib install hmm --quiet
-          haxelib run hmm install
+          haxelib install flixel-tools
+          haxelib install lime
+          haxelib install hxcodec 2.5.1
       - name: Create Version Tag
         run: echo "${{github.run_id}}" > VERSION
       - name: Compile
