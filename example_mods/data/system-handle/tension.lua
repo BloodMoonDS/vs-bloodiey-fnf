@@ -86,15 +86,15 @@ local currentBeat = (songPos/5000)*(curBpm/24)
 
     -- Tween X
 
-    noteTweenY("bounce0",0, DefaultYPos+moveEquation+10,tween_speed,"linear");
-    noteTweenY("bounce1",1, DefaultYPos+moveEquation*-1+20,tween_speed,"linear");
-    noteTweenY("bounce2",2, DefaultYPos+moveEquation+30,tween_speed,"linear");
-    noteTweenY("bounce3",3, DefaultYPos+moveEquation*-1+40,tween_speed,"linear");
+    noteTweenY("bounce0",0, DefaultYPos+moveEquation,tween_speed,"linear");
+    noteTweenY("bounce1",1, DefaultYPos+moveEquation*-1,tween_speed,"linear");
+    noteTweenY("bounce2",2, DefaultYPos+moveEquation,tween_speed,"linear");
+    noteTweenY("bounce3",3, DefaultYPos+moveEquation*-1,tween_speed,"linear");
 
-    noteTweenY("bounce4",4, DefaultYPos+moveEquation+10,tween_speed,"linear");
-    noteTweenY("bounce5",5, DefaultYPos+moveEquation*-1+20,tween_speed,"linear");
-    noteTweenY("bounce6",6, DefaultYPos+moveEquation+30,tween_speed,"linear");
-    noteTweenY("bounce7",7, DefaultYPos+moveEquation*-1+40,tween_speed,"linear");
+    noteTweenY("bounce4",4, DefaultYPos+moveEquation,tween_speed,"linear");
+    noteTweenY("bounce5",5, DefaultYPos+moveEquation*-1,tween_speed,"linear");
+    noteTweenY("bounce6",6, DefaultYPos+moveEquation,tween_speed,"linear");
+    noteTweenY("bounce7",7, DefaultYPos+moveEquation*-1,tween_speed,"linear");
 
     local zoomequation = zom+moveEquation*0.001
     local finalZoom = zoomequation*ZoomIncrement

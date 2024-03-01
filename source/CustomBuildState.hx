@@ -24,9 +24,8 @@ class CustomBuildState extends MusicBeatState
 		add(bg);
 
 		warnText = new FlxText(0, 0, FlxG.width,
-			"Hey This Mod uses A custom Pysch Engine Build To Work \n
-            Do Not Mess Around Mod Files in /mods Floder Because You will get the\n
-            INFERIOR VERSION\n",
+			"Hey This Mod uses A custom Pysch Engine Build To Work\n
+            Do Not Mess Around Mod Files in /mods Floder",
 			32);
 		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
