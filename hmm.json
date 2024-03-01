@@ -83,8 +83,12 @@
       "name": "http-socket",
       "type": "haxelib",
       "version": "1.2.0"
+    },
+    {
+      "name": "hscript",
+      "type": "haxelib",
+      "version": null
     }
-    
 
   ]
 }
