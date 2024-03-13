@@ -1,8 +1,0 @@
-texture = "POWER_ASSETS"
-rgbShader.r = 0x10eaf6
-rgbShader.g = 0x1017f4
-rgbShader.b = 0xffe7f6
-hitsound = "bloodieyblast"
-missHealth = 0.5
-hitHealth = 0.04
-noteSplashTexture = "POWER_SPLASHES"
