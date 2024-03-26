@@ -1,6 +1,6 @@
 # Friday Night Funkin' Vs Bloodiey
 
-![Logo OG](art/icon128.png)
+![Logo OG](art/iconOG.png)
 
 ## About
 
@@ -22,7 +22,7 @@ or else Visit the official psych engine website.
 
 <https://github.com/ShadowMario/FNF-PsychEngine>
 
-![Mod Icon](art/icon64.png)
+![Mod Icon](art/icon32.png)
 
 You Can modify this mod inside <code>example_mods</code> all the files are in the root directory of the mods
 
@@ -31,7 +31,39 @@ Some of the FlashFiles are located in <code>art/flashFiles</code> with the fnf o
 If there are some things that are "incorrect" Before making a Tweet Exposing me please notify
 me for further modifications, adjustments, and censorship
 
-## Preview
+## TEAM
+
+> - ``bloodiey`` Main Mod Director/Conceptualist/new Composer/programmer.
+> - ``the_modisc`` Mod Composer.
+> - ``elkatto`` Mod animator and artist.
+> - ``tonyxytxd`` Mod artist and animator.
+> - ``kittypaw69`` Mod artist and animator.
+> - ``voltacjolteon`` artist.
+> - ``thefoxblcak`` Helper And conceptualist.
+
+## Building
+This build requires [Haxe 4.2.5](https://haxe.org/download/version/4.2.5/) to run.
+
+Since building this this thing may be tricky I will recommend doing first
+
+``1haxelib install lime``
+
+``haxelib install openfl``
+
+``haxelib install flixel``
+
+``haxelib run lime setup flixel``
+
+``haxelib run lime setup``
+
+``haxelib install flixel-tools``
+
+``haxelib run flixel-tools setup``
+
+Since We are using a Custom Pysch Engine build 
+then you should execute ``haxelib install hmm `` to install the haxelib manager so next you should do ``haxelib run hmm install`` this wil install the required libraries to build this modified version of psych engine 0.6.3
+
+## Preview (outdated)
 
 ![ScreenCap1](art/sillyArt/Cap´ture%20Blue%20White%20Bloodiey%20(1).png)
 ![ScreenCap2](art/sillyArt/Cap´ture%20Blue%20White%20Bloodiey%20(2).png)
@@ -61,4 +93,4 @@ If you have any suggestions you can contact me
 
 TYSM For Reading all of this
 
-![Cute Protogen](https://media.tenor.com/udHEEVVva6EAAAAC/protogen-proto.gif)
+![Cute Cat](https://media1.tenor.com/m/Z5x6xrH6_AQAAAAC/cat-kissing.gif)

@@ -25,7 +25,7 @@ using StringTools;
 
 class MainMenuState extends MusicBeatState
 {
-	public static var psychEngineVersion:String = '0.6.3'; //This is also used for Discord RPC
+	public static var psychEngineVersion:String = '0.1.1'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
 
 	var menuItems:FlxTypedGroup<FlxSprite>;
@@ -130,7 +130,27 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.camera.follow(camFollowPos, null, 1);
 
-		var versionShit:FlxText = new FlxText(12, FlxG.height - 44, 0, "Psych Engine v" + psychEngineVersion, 12);
+		var motdhttp = new haxe.Http("http://bloodieysart.rf.gd/media/motd.txt");
+		var motdtext:String;
+
+		motdhttp.onData = function (data:String)
+		{
+			trace(data);
+			motdtext = 'message of the day: \n
+			$data';
+		}		
+		motdhttp.onError = function (error) {
+			trace('error: $error');
+			motdtext = 'error: $error' ;
+		}
+
+		motdhttp.request();
+		
+		var messageoftheday:FlxText = new FlxText(12, 32, 0, motdtext, 16);
+		messageoftheday.scrollFactor.set();
+		messageoftheday.setFormat("Segoe UI Emoji", 24, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		add(messageoftheday);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 44, 0, "vs Bloodiey V" + psychEngineVersion, 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);

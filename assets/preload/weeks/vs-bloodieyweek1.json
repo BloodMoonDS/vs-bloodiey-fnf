@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"neko-no-kamisama",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"im-not-a-pussy",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"supidokuro",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"futotta-koneko",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"zenno-no-neko",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Bloodiey the multiverse cat",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

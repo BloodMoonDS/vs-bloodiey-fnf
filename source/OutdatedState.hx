@@ -24,12 +24,12 @@ class OutdatedState extends MusicBeatState
 		add(bg);
 
 		warnText = new FlxText(0, 0, FlxG.width,
-			"Sup bro, looks like you're running an   \n
-			outdated version of Psych Engine (" + MainMenuState.psychEngineVersion + "),\n
-			please update to " + TitleState.updateVersion + "!\n
+			"You seem to use an \n
+			early version of vs bloodiey mod current version is: (" + MainMenuState.psychEngineVersion + "),\n
+			please update to " + TitleState.updateVersion + " When aviable!\n
 			Press ESCAPE to proceed anyway.\n
 			\n
-			Thank you for using the Engine!",
+			Thank you for testing our mod!",
 			32);
 		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
@@ -41,7 +41,7 @@ class OutdatedState extends MusicBeatState
 		if(!leftState) {
 			if (controls.ACCEPT) {
 				leftState = true;
-				CoolUtil.browserLoad("https://github.com/ShadowMario/FNF-PsychEngine/releases");
+				CoolUtil.browserLoad("https://github.com/BloodMoonDS/vs-bloodiey-fnf/releases");
 			}
 			else if(controls.BACK) {
 				leftState = true;

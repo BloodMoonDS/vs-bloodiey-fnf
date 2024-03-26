@@ -33,7 +33,7 @@
     {
       "name": "hxcpp",
       "type": "haxelib",
-      "version": null
+      "version": "4.2.1"
     },
     {
       "name": "tjson",
@@ -54,11 +54,6 @@
       "name": "SScript",
       "type": "haxelib",
       "version": "3.0.2"
-    },
-    {
-      "name": "hxcpp-debug-server",
-      "type": "haxelib",
-      "version": null
     },
     {
       "name": "discord_rpc",
