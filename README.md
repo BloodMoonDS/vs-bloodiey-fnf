@@ -33,13 +33,7 @@ me for further modifications, adjustments, and censorship
 
 ## TEAM
 
-> - ``bloodiey`` Main Mod Director/Conceptualist/new Composer/programmer.
-> - ``the_modisc`` Mod Composer.
-> - ``elkatto`` Mod animator and artist.
-> - ``tonyxytxd`` Mod artist and animator.
-> - ``kittypaw69`` Mod artist and animator.
-> - ``voltacjolteon`` artist.
-> - ``thefoxblcak`` Helper And conceptualist.
+> - ``bloodiey`` Doing everything alone
 
 ## Building
 This build requires [Haxe 4.2.5](https://haxe.org/download/version/4.2.5/) to run.
